@@ -1,3 +1,3 @@
 # Construkit
-inventory management system 
-env/construkit for the source code
+# inventory management system
+# env/construkit for the source code
